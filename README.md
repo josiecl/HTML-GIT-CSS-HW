@@ -31,3 +31,6 @@ I discovered a lot of the semantic counterparts for 'div' commands. I also found
 [!1st screenshot of deployed site](https://user-images.githubusercontent.com/74507818/102002551-362adc80-3cc3-11eb-9b8f-852b13e2b475.png)
 [!2nd screenshot of deployed site](https://user-images.githubusercontent.com/74507818/102002552-388d3680-3cc3-11eb-9118-b8095a3b34f8.png)
 [!3rd screenshot of deployed site](https://user-images.githubusercontent.com/74507818/102002550-35924600-3cc3-11eb-8191-f9e655f21343.png)
+
+## Link to deployed site
+[!deployed site](https://josiecl.github.io/HTML-GIT-CSS-HW/)
