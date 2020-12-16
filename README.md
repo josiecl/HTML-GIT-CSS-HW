@@ -26,3 +26,8 @@ The site I was given had no developer notes, which made navigating the html more
 ## What I learned
 
 I discovered a lot of the semantic counterparts for 'div' commands. I also found how troubleshooting can be done quickly and effectively, and how to use my resources for assistance when needed. Overall, it was a very enriching experience that left me feeling a great deal more confident in my coding abilities. 
+
+## Images of deployed site
+[!1st screenshot of deployed site](https://user-images.githubusercontent.com/74507818/102002551-362adc80-3cc3-11eb-9b8f-852b13e2b475.png)
+[!2nd screenshot of deployed site](https://user-images.githubusercontent.com/74507818/102002552-388d3680-3cc3-11eb-9118-b8095a3b34f8.png)
+[!3rd screenshot of deployed site](https://user-images.githubusercontent.com/74507818/102002550-35924600-3cc3-11eb-8191-f9e655f21343.png)
